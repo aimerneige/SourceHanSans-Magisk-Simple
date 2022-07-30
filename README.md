@@ -4,7 +4,14 @@
 
 [字体模板说明](README-lxgw.md)
 
-如果您要自己打包，请在 [source-han-sans/releases](https://github.com/adobe-fonts/source-han-sans/releases) 下载字体文件并拷贝至 `system/fonts` 文件夹下。
+## 下载
+
+1. 在 GitHub 直接下载：<https://github.com/aimerneige/SourceHanSans-Magisk-Simple/releases>
+2. 网络较差可以使用 [AiurDrive](https://github.com/AiursoftWeb/AiurDrive) 托管的文件：<https://aimerneige.aiur.site/magisk/sourcehansans-magisk-simple.zip>
+
+## 打包
+
+如果您要自己打包，请先在 [source-han-sans/releases](https://github.com/adobe-fonts/source-han-sans/releases) 下载字体文件并拷贝至 `system/fonts` 文件夹下。
 
 ```bash
 system/fonts
